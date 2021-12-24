@@ -1,0 +1,10 @@
+mul
+som
+enot
+krot
+lemur
+kojot
+panda
+tukan
+mustang
+gippopotam
